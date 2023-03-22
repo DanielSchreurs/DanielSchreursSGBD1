@@ -7,6 +7,8 @@
 Requête 1 :
 Afficher la liste des intitulés des voyages proposés par l’agence ainsi que leur prix respectif.
 
+
+
 ~~~sql
 select 1 from DUAL;
 ~~~
